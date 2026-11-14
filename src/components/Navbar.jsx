@@ -70,7 +70,7 @@ export default function Navbar() {
               strokeLinejoin="round"
             />
           </svg>
-          <span className="text-2xl font-bold tracking-tight text-ink">BWI Trip</span>
+          <span className="text-2xl font-bold tracking-tight text-ink">Nawasena</span>
         </a>
 
         {/* Menu desktop */}
